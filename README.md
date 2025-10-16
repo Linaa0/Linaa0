@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software developer in the making 💡<br>I love solving real-world problems using code.<br>Always learning. Always building.
+Software developer with a great passion of a full-stack 💡<br>I love solving real-world problems using code.<br>Always learning. Always building.
 
 
 ## 🌐 Socials:
