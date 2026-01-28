@@ -1,6 +1,7 @@
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F5DEB3&width=600&lines=git+commit+-m+Linaa+has+entered+the+chat" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F5DEB3&width=600&lines=git+commit+-m+Linaa;has;entered;the;chat" alt="Typing SVG"/>
 </p>
+
 
 ## About Me
 I'm a curious coder who loves turning ideas into reality.  
