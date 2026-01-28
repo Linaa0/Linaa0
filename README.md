@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=1e3a8a&width=600&lines=Hey+there!+I'm+Linaa" alt="Typing SVG"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F5DEB3&width=600&lines=Hey+there!+I'm+Linaa" alt="Typing SVG"/>
 </p>
 
 ## About Me
@@ -9,7 +9,7 @@ I thrive on building projects that make life easier and more fun.
 I never shy away from a challenge—if it’s impossible, it's just another project waiting to happen.
 
 ## Skills
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -31,4 +31,4 @@ I never shy away from a challenge—if it’s impossible, it's just another proj
 - [Email](mailto:ishimwelina06@gmail.com)
 
 ## Favorite Quote
-*"Beware of bugs in the above code; I have only proved it correct, not tried it.”* – Donald Knuth
+*"Beware of bugs in the above code; I have only proved it correct, not tried it.”* – Donald Knuth 
