@@ -1,12 +1,11 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F5DEB3&width=600&lines=Hey+there!+I'm+Linaa" alt="Typing SVG"/>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F5DEB3&width=600&lines=git+commit+-m+%22Linaa+has+entered+the+chat%22" alt="Typing SVG"/>
 </p>
 
 ## About Me
 I'm a curious coder who loves turning ideas into reality.  
 From writing clean, elegant code to exploring the latest in tech.  
 I thrive on building projects that make life easier and more fun.  
-I never shy away from a challenge—if it’s impossible, it's just another project waiting to happen.
 
 ## Skills
 <p align="center">
