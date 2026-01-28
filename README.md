@@ -1,12 +1,8 @@
 <!-- Profile README for GitHub -->
 
-<p align="left">
-  <img src="https://i.ibb.co/92e1f3b2/92e1f3b2-946a-41d9-910d-f977795a8b50.png" alt="Banner" width="100%"/>
-</p>
-
 <!-- Typing effect -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&color=FF69B4&center=false&vCenter=true&width=600&lines=Hi%2C+I'm+Linaa" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&color=FF69B4&center=false&vCenter=true&width=600&lines=Hey There%2C+I'm+Linaa" alt="Typing Animation">
 </p>
 
 <p align="left">
