@@ -12,6 +12,11 @@ I thrive on building projects that make life easier and more fun.
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Bash%20Script-000000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Script"/>
   <img src="https://img.shields.io/badge/PowerShell-0078D6?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/Windows%20Terminal-505050?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Windows Terminal"/>
@@ -30,4 +35,4 @@ I thrive on building projects that make life easier and more fun.
 - [Email](mailto:ishimwelina06@gmail.com)
 
 ## Favorite Quote
-*"Beware of bugs in the above code; I have only proved it correct, not tried it.”* – Donald Knuth 
+*"Not all those who wander are lost; some are just debugging."* 
