@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=32&pause=1000&color=F5DEB3&width=600&lines=git+commit+-m+%22Linaa+joined%22" alt="Typing SVG"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=32&pause=1000&color=8B7355&width=600&center=true&lines=git+commit+-m+%22Linaa+joined%22" alt="Typing SVG"/>
 </p>
 
 ## About Me
