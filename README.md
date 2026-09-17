@@ -6,9 +6,14 @@
 I'm a curious coder who loves turning ideas into reality.  
 From writing clean, elegant code to exploring the latest in tech.  
 I thrive on building projects that make life easier and more fun.  
-
 ## Skills
-<p align="center"> <img src="https://shields.io" alt="HTML5"/> <img src="https://shields.io" alt="CSS3"/> <img src="https://shields.io" alt="JavaScript"/> <img src="https://shields.io" alt="TypeScript"/> <img src="https://shields.io" alt="React"/> <img src="https://shields.io" alt="NextJS"/> <img src="https://shields.io" alt="Node.js"/> <img src="https://shields.io" alt="NestJS"/> <img src="https://shields.io" alt="Tailwind CSS"/> <img src="https://shields.io" alt="Python"/> <img src="https://shields.io" alt="C++"/> <img src="https://shields.io" alt="C"/> <img src="https://shields.io" alt="Java"/> <img src="https://shields.io" alt="Bash Script"/> <img src="https://shields.io" alt="PowerShell"/> <img src="https://shields.io" alt="Windows Terminal"/> <img src="https://shields.io" alt="PHP"/> <img src="https://shields.io" alt="Apache"/> <img src="https://shields.io" alt="Canva"/> <img src="https://shields.io" alt="Figma"/> <img src="https://shields.io" alt="Git"/> <img src="https://shields.io" alt="GitHub"/> <img src="https://shields.io" alt="Arduino"/> <img src="https://shields.io" alt="XFCE"/></p>
+
+| | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://shields.io" alt="HTML5"/> | <img src="https://shields.io" alt="CSS3"/> | <img src="https://shields.io" alt="JavaScript"/> | <img src="https://shields.io" alt="TypeScript"/> | <img src="https://shields.io" alt="React"/> | <img src="https://shields.io" alt="NextJS"/> |
+| <img src="https://shields.io" alt="Node.js"/> | <img src="https://shields.io" alt="NestJS"/> | <img src="https://shields.io" alt="Tailwind CSS"/> | <img src="https://shields.io" alt="Python"/> | <img src="https://shields.io" alt="C++"/> | <img src="https://shields.io" alt="C"/> |
+| <img src="https://shields.io" alt="Java"/> | <img src="https://shields.io" alt="Bash Script"/> | <img src="https://shields.io" alt="PowerShell"/> | <img src="https://shields.io" alt="Windows Terminal"/> | <img src="https://shields.io" alt="PHP"/> | <img src="https://shields.io" alt="Apache"/> |
+| <img src="https://shields.io" alt="Canva"/> | <img src="https://shields.io" alt="Figma"/> | <img src="https://shields.io" alt="Git"/> | <img src="https://shields.io" alt="GitHub"/> | <img src="https://shields.io" alt="Arduino"/> | <img src="https://shields.io" alt="XFCE"/> |
 
 
 ## Socials
