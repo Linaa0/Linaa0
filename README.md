@@ -9,29 +9,29 @@ I thrive on building projects that make life easier and more fun.
 
 ## Skills
 <p align="center">
-  <img src="https://shields.io" alt="HTML5"/>&nbsp;
-  <img src="https://shields.io" alt="CSS3"/>&nbsp;
-  <img src="https://shields.io" alt="JavaScript"/>&nbsp;
-  <img src="https://shields.io" alt="TypeScript"/>&nbsp;
-  <img src="https://shields.io" alt="React"/>&nbsp;
-  <img src="https://shields.io" alt="Next.js"/>&nbsp;
-  <img src="https://shields.io" alt="Node.js"/>&nbsp;
-  <img src="https://shields.io" alt="NestJS"/>&nbsp;
-  <img src="https://shields.io" alt="Tailwind CSS"/>&nbsp;
-  <img src="https://shields.io" alt="Python"/>&nbsp;
-  <img src="https://shields.io" alt="C++"/>&nbsp;
-  <img src="https://shields.io" alt="C"/>&nbsp;
-  <img src="https://shields.io" alt="Java"/>&nbsp;
-  <img src="https://shields.io" alt="Bash Script"/>&nbsp;
-  <img src="https://shields.io" alt="PowerShell"/>&nbsp;
-  <img src="https://shields.io" alt="Windows Terminal"/>&nbsp;
-  <img src="https://shields.io" alt="PHP"/>&nbsp;
-  <img src="https://shields.io" alt="Apache"/>&nbsp;
-  <img src="https://shields.io" alt="Canva"/>&nbsp;
-  <img src="https://shields.io" alt="Figma"/>&nbsp;
-  <img src="https://shields.io" alt="Git"/>&nbsp;
-  <img src="https://shields.io" alt="GitHub"/>&nbsp;
-  <img src="https://shields.io" alt="Arduino"/>&nbsp;
+  <img src="https://shields.io" alt="HTML5"/>
+  <img src="https://shields.io" alt="CSS3"/>
+  <img src="https://shields.io" alt="JavaScript"/>
+  <img src="https://shields.io" alt="TypeScript"/>
+  <img src="https://shields.io" alt="React"/>
+  <img src="https://shields.io" alt="Next.js"/>
+  <img src="https://shields.io" alt="Node.js"/>
+  <img src="https://shields.io" alt="NestJS"/>
+  <img src="https://shields.io" alt="Tailwind CSS"/>
+  <img src="https://shields.io" alt="Python"/>
+  <img src="https://shields.io" alt="C++"/>
+  <img src="https://shields.io" alt="C"/>
+  <img src="https://shields.io" alt="Java"/>
+  <img src="https://shields.io" alt="Bash Script"/>
+  <img src="https://shields.io" alt="PowerShell"/>
+  <img src="https://shields.io" alt="Windows Terminal"/>
+  <img src="https://shields.io" alt="PHP"/>
+  <img src="https://shields.io" alt="Apache"/>
+  <img src="https://shields.io" alt="Canva"/>
+  <img src="https://shields.io" alt="Figma"/>
+  <img src="https://shields.io" alt="Git"/>
+  <img src="https://shields.io" alt="GitHub"/>
+  <img src="https://shields.io" alt="Arduino"/>
   <img src="https://shields.io" alt="XFCE"/>
 </p>
 
