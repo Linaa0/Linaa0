@@ -6,14 +6,9 @@
 I'm a curious coder who loves turning ideas into reality.  
 From writing clean, elegant code to exploring the latest in tech.  
 I thrive on building projects that make life easier and more fun.  
-## Skills
 
-| | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://shields.io" alt="HTML5"/> | <img src="https://shields.io" alt="CSS3"/> | <img src="https://shields.io" alt="JavaScript"/> | <img src="https://shields.io" alt="TypeScript"/> | <img src="https://shields.io" alt="React"/> | <img src="https://shields.io" alt="NextJS"/> |
-| <img src="https://shields.io" alt="Node.js"/> | <img src="https://shields.io" alt="NestJS"/> | <img src="https://shields.io" alt="Tailwind CSS"/> | <img src="https://shields.io" alt="Python"/> | <img src="https://shields.io" alt="C++"/> | <img src="https://shields.io" alt="C"/> |
-| <img src="https://shields.io" alt="Java"/> | <img src="https://shields.io" alt="Bash Script"/> | <img src="https://shields.io" alt="PowerShell"/> | <img src="https://shields.io" alt="Windows Terminal"/> | <img src="https://shields.io" alt="PHP"/> | <img src="https://shields.io" alt="Apache"/> |
-| <img src="https://shields.io" alt="Canva"/> | <img src="https://shields.io" alt="Figma"/> | <img src="https://shields.io" alt="Git"/> | <img src="https://shields.io" alt="GitHub"/> | <img src="https://shields.io" alt="Arduino"/> | <img src="https://shields.io" alt="XFCE"/> |
+## Skills
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![React](https://shields.io) ![Next.js](https://shields.io) ![Node.js](https://shields.io) ![NestJS](https://shields.io) ![Tailwind CSS](https://shields.io) ![Python](https://shields.io) ![C++](https://shields.io) ![C](https://shields.io) ![Java](https://shields.io) ![Bash Script](https://shields.io) ![PowerShell](https://shields.io) ![Windows Terminal](https://shields.io) ![PHP](https://shields.io) ![Apache](https://shields.io) ![Canva](https://shields.io) ![Figma](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) ![Arduino](https://shields.io) ![XFCE](https://shields.io)
 
 
 ## Socials
